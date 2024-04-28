@@ -1,6 +1,5 @@
 #include<stdio.h>
-#define  age 18;
-
+#define AGE 3.14159265359
 int main(){
 
 
@@ -15,7 +14,7 @@ out = 12.5;
 
 
 
-float area = a*out;
+float area = AGE*out;
 
 printf("%d",area);
 
