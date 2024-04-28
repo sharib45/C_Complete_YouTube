@@ -8,7 +8,7 @@ const float PI = 3.14;
 int a = 5;
 float out;
 
-printf("%d" ,a) ;
+
 
 out = 12.5;
 
@@ -16,6 +16,6 @@ out = 12.5;
 
 float area = AGE*out;
 
-printf("%d",area);
+printf("%f",area);
 
 }
