@@ -14,7 +14,7 @@ int y =10;
 swap(x,y);
 
 
-printf("\n org x is %d and y is %d\n", x ,y);
+printf("\n org x is %d and y is %d\n ", x ,y);
 
 
 }
